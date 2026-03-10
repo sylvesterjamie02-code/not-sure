@@ -1,0 +1,32 @@
+[
+  {
+    "name": "York Hall Leisure Centre",
+    "borough": "Tower Hamlets",
+    "provider": "Better",
+    "booking_url": "https://www.better.org.uk/leisure-centre/london/tower-hamlets/york-hall-leisure-centre"
+  },
+  {
+    "name": "Mile End Park Leisure Centre and Stadium",
+    "borough": "Tower Hamlets",
+    "provider": "Better",
+    "booking_url": "https://www.better.org.uk/leisure-centre/london/tower-hamlets/mile-end-park-leisure-centre-and-stadium"
+  },
+  {
+    "name": "Barking Sporthouse and Gym",
+    "borough": "Barking & Dagenham",
+    "provider": "Better",
+    "booking_url": "https://www.better.org.uk/leisure-centre/london/barking-and-dagenham/barking-sporthouse-and-gym"
+  },
+  {
+    "name": "Leyton Leisure Centre",
+    "borough": "Waltham Forest",
+    "provider": "Better",
+    "booking_url": "https://www.better.org.uk/leisure-centre/london/waltham-forest/leyton-leisure-centre"
+  },
+  {
+    "name": "The Copper Box Arena",
+    "borough": "Hackney / Queen Elizabeth Olympic Park",
+    "provider": "Better",
+    "booking_url": "https://www.better.org.uk/leisure-centre/london/hackney/the-copper-box-arena"
+  }
+]
